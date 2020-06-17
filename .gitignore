@@ -1,0 +1,14 @@
+__pycache__/
+
+detectron2_repo/:
+
+faster_rcnn_resnet101_coco_2018_01_28/
+
+output/
+
+output_publaynet/
+
+convert_pth_to_tf.py
+
+nohup.out
+
